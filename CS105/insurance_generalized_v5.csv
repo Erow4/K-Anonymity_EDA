@@ -1,0 +1,1339 @@
+age,sex,bmi,children,smoker,region,charges
+****,female,Overweight,0,yes,****,16884.924
+****,male,Obese,1,no,****,1725.5523
+****,male,Obese,3,no,****,4449.462
+****,male,Normal weight,0,no,****,21984.47061
+****,male,Overweight,0,no,****,3866.8552
+****,female,Overweight,0,no,****,3756.6216
+****,female,Obese,1,no,****,8240.5896
+****,female,Overweight,3,no,****,7281.5056
+****,male,Overweight,2,no,****,6406.4107
+****,female,Overweight,0,no,****,28923.13692
+****,male,Overweight,0,no,****,2721.3208
+****,female,Overweight,0,yes,****,27808.7251
+****,male,Obese,0,no,****,1826.843
+****,female,Obese,0,no,****,11090.7178
+****,male,Obese,0,yes,****,39611.7577
+****,male,Normal weight,1,no,****,1837.237
+****,female,Obese,1,no,****,10797.3362
+****,male,Normal weight,0,no,****,2395.17155
+****,male,Obese,0,no,****,10602.385
+****,male,Obese,0,yes,****,36837.467
+****,female,Obese,0,no,****,13228.84695
+****,female,Obese,1,no,****,4149.736
+****,male,Obese,0,no,****,1137.011
+****,female,Obese,1,yes,****,37701.8768
+****,male,Overweight,2,no,****,6203.90175
+****,female,Overweight,3,no,****,14001.1338
+****,female,Normal weight,0,no,****,14451.83515
+****,female,Obese,2,no,****,12268.63225
+****,male,Underweight,1,no,****,2775.19215
+****,male,Obese,2,yes,****,38711.0
+****,male,Obese,0,yes,****,35585.576
+****,female,Overweight,0,no,****,2198.18985
+****,female,Overweight,5,no,****,4687.797
+****,male,Overweight,0,no,****,13770.0979
+****,male,Obese,1,yes,****,51194.55914
+****,male,Normal weight,0,no,****,1625.43375
+****,female,Obese,3,no,****,15612.19335
+****,male,Normal weight,0,no,****,2302.3
+****,male,Obese,1,yes,****,39774.2763
+****,male,Obese,0,yes,****,48173.361
+****,female,Overweight,0,no,****,3046.062
+****,female,Obese,2,no,****,4949.7587
+****,male,Normal weight,1,no,****,6272.4772
+****,female,Obese,2,no,****,6313.759
+****,male,Obese,1,no,****,6079.6715
+****,male,Obese,0,no,****,20630.28351
+****,female,Obese,2,no,****,3393.35635
+****,female,Obese,0,no,****,3556.9223
+****,female,Normal weight,0,no,****,12629.8967
+****,male,Obese,1,yes,****,38709.176
+****,female,Obese,0,no,****,2211.13075
+****,female,Obese,2,no,****,3579.8287
+****,male,Overweight,1,yes,****,23568.272
+****,male,Obese,0,yes,****,37742.5757
+****,female,Overweight,3,no,****,8059.6791
+****,male,Obese,2,yes,****,47496.49445
+****,female,Obese,2,no,****,13607.36875
+****,male,Obese,2,yes,****,34303.1672
+****,female,Normal weight,1,yes,****,23244.7902
+****,female,Obese,2,no,****,5989.52365
+****,male,Overweight,3,no,****,8606.2174
+****,male,Obese,4,no,****,4504.6624
+****,male,Normal weight,1,no,****,30166.61817
+****,female,Overweight,1,no,****,4133.64165
+****,female,Normal weight,0,yes,****,14711.7438
+****,female,Overweight,0,no,****,1743.214
+****,female,Obese,2,no,****,14235.072
+****,male,Overweight,1,no,****,6389.37785
+****,female,Obese,0,no,****,5920.1041
+****,male,Normal weight,3,yes,****,17663.1442
+****,female,Normal weight,0,yes,****,16577.7795
+****,male,Overweight,5,no,****,6799.458
+****,female,Overweight,3,no,****,11741.726
+****,male,Obese,1,no,****,11946.6259
+****,male,Overweight,2,no,****,7726.854
+****,male,Obese,0,no,****,11356.6609
+****,female,Overweight,1,no,****,3947.4131
+****,male,Obese,0,no,****,1532.4697
+****,female,Obese,0,no,****,2755.02095
+****,female,Obese,0,no,****,6571.02435
+****,male,Overweight,1,no,****,4441.21315
+****,female,Obese,0,no,****,7935.29115
+****,male,Obese,1,yes,****,37165.1638
+****,female,Obese,4,no,****,11033.6617
+****,female,Obese,2,yes,****,39836.519
+****,male,Normal weight,2,yes,****,21098.55405
+****,female,Obese,0,yes,****,43578.9394
+****,female,Overweight,0,no,****,11073.176
+****,female,Overweight,0,no,****,8026.6666
+****,female,Overweight,0,no,****,11082.5772
+****,female,Obese,0,no,****,2026.9741
+****,female,Normal weight,1,no,****,10942.13205
+****,male,Overweight,3,yes,****,30184.9367
+****,male,Obese,2,no,****,5729.0053
+****,female,Obese,2,yes,****,47291.055
+****,female,Obese,1,no,****,3766.8838
+****,female,Obese,3,no,****,12105.32
+****,male,Obese,0,no,****,10226.2842
+****,male,Normal weight,0,yes,****,22412.6485
+****,male,Normal weight,0,yes,****,15820.699
+****,female,Obese,0,no,****,6186.127
+****,male,Overweight,0,no,****,3645.0894
+****,female,Obese,0,no,****,21344.8467
+****,female,Obese,3,yes,****,30942.1918
+****,female,Overweight,1,no,****,5003.853
+****,male,Overweight,1,yes,****,17560.37975
+****,female,Overweight,1,no,****,2331.519
+****,male,Obese,2,no,****,3877.30425
+****,male,Overweight,0,no,****,2867.1196
+****,male,Obese,0,yes,****,47055.5321
+****,male,Obese,1,no,****,10825.2537
+****,female,Overweight,2,no,****,11881.358
+****,male,Obese,0,no,****,4646.759
+****,female,Obese,0,no,****,2404.7338
+****,male,Obese,3,no,****,11488.31695
+****,male,Overweight,0,no,****,30259.99556
+****,male,Obese,0,no,****,11381.3254
+****,female,Overweight,1,yes,****,19107.7796
+****,female,Overweight,0,no,****,8601.3293
+****,female,Normal weight,2,no,****,6686.4313
+****,male,Obese,2,no,****,7740.337
+****,male,Normal weight,0,no,****,1705.6245
+****,female,Overweight,0,no,****,2257.47525
+****,male,Obese,1,yes,****,39556.4945
+****,female,Obese,3,no,****,10115.00885
+****,female,Overweight,0,no,****,3385.39915
+****,female,Overweight,0,yes,****,17081.08
+****,female,Obese,0,no,****,9634.538
+****,female,Underweight,2,yes,****,32734.1863
+****,male,Obese,2,no,****,6082.405
+****,female,Overweight,0,no,****,12815.44495
+****,female,Normal weight,0,no,****,13616.3586
+****,female,Obese,2,no,****,11163.568
+****,male,Overweight,0,no,****,1632.56445
+****,female,Overweight,0,no,****,2457.21115
+****,female,Overweight,0,no,****,2155.6815
+****,male,Obese,0,no,****,1261.442
+****,male,Overweight,0,no,****,2045.68525
+****,female,Obese,3,no,****,27322.73386
+****,female,Obese,0,no,****,2166.732
+****,male,Normal weight,2,no,****,27375.90478
+****,male,Obese,1,no,****,3490.5491
+****,male,Overweight,2,yes,****,18972.495
+****,male,Overweight,2,no,****,18157.876
+****,male,Overweight,3,yes,****,20745.9891
+****,female,Obese,3,no,****,5138.2567
+****,male,Obese,3,yes,****,40720.55105
+****,female,Obese,1,no,****,9877.6077
+****,female,Obese,1,no,****,10959.6947
+****,male,Overweight,1,no,****,1842.519
+****,male,Normal weight,1,no,****,5125.2157
+****,male,Overweight,0,no,****,7789.635
+****,female,Obese,3,no,****,6334.34355
+****,female,Normal weight,0,yes,****,19964.7463
+****,female,Overweight,1,no,****,7077.1894
+****,male,Obese,0,no,****,6948.7008
+****,male,Normal weight,0,yes,****,21223.6758
+****,male,Overweight,0,yes,****,15518.18025
+****,male,Obese,0,yes,****,36950.2567
+****,female,Overweight,3,no,****,19749.38338
+****,female,Overweight,0,yes,****,21348.706
+****,female,Obese,0,yes,****,36149.4835
+****,male,Obese,1,no,****,10450.552
+****,female,Overweight,2,no,****,5152.134
+****,male,Overweight,0,no,****,5028.1466
+****,male,Overweight,4,no,****,10407.08585
+****,female,Obese,5,no,****,4830.63
+****,female,Obese,3,no,****,6128.79745
+****,female,Obese,1,no,****,2719.27975
+****,male,Normal weight,3,no,****,4827.90495
+****,male,Obese,0,no,****,13405.3903
+****,male,Obese,0,no,****,8116.68
+****,male,Underweight,0,no,****,1694.7964
+****,female,Obese,1,no,****,5246.047
+****,female,Obese,0,no,****,2855.43755
+****,female,Obese,0,yes,****,48824.45
+****,male,Overweight,2,no,****,6455.86265
+****,male,Overweight,1,no,****,10436.096
+****,female,Overweight,2,no,****,8823.279
+****,female,Obese,3,no,****,8538.28845
+****,male,Overweight,0,no,****,11735.87905
+****,female,Obese,0,no,****,1631.8212
+****,male,Normal weight,3,no,****,4005.4225
+****,female,Overweight,0,no,****,7419.4779
+****,male,Obese,2,no,****,7731.4271
+****,male,Obese,3,yes,****,43753.33705
+****,female,Obese,2,no,****,3981.9768
+****,female,Obese,3,no,****,5325.651
+****,female,Obese,1,no,****,6775.961
+****,female,Obese,2,no,****,4922.9159
+****,male,Obese,0,no,****,12557.6053
+****,female,Overweight,0,no,****,4883.866
+****,male,Overweight,0,no,****,2137.6536
+****,female,Overweight,1,no,****,12044.342
+****,male,Obese,0,no,****,1137.4697
+****,male,Obese,0,no,****,1639.5631
+****,female,Obese,0,no,****,5649.715
+****,female,Overweight,2,no,****,8516.829
+****,female,Underweight,0,no,****,9644.2525
+****,female,Obese,0,no,****,14901.5167
+****,female,Obese,0,no,****,2130.6759
+****,female,Obese,1,no,****,8871.1517
+****,female,Normal weight,0,no,****,13012.20865
+****,female,Obese,0,yes,****,37133.8982
+****,male,Normal weight,0,no,****,7147.105
+****,female,Overweight,1,no,****,4337.7352
+****,male,Overweight,0,no,****,11743.299
+****,male,Overweight,2,yes,****,20984.0936
+****,female,Obese,0,no,****,13880.949
+****,male,Obese,1,no,****,6610.1097
+****,male,Obese,1,no,****,1980.07
+****,male,Obese,4,no,****,8162.71625
+****,male,Overweight,2,no,****,3537.703
+****,female,Overweight,1,no,****,5002.7827
+****,female,Obese,2,no,****,8520.026
+****,female,Obese,2,no,****,7371.772
+****,female,Overweight,0,no,****,10355.641
+****,male,Normal weight,0,no,****,2483.736
+****,female,Obese,1,no,****,3392.9768
+****,female,Normal weight,0,no,****,25081.76784
+****,female,Obese,1,no,****,5012.471
+****,female,Obese,0,no,****,10564.8845
+****,male,Obese,3,no,****,5253.524
+****,male,Obese,0,yes,****,34779.615
+****,male,Normal weight,0,yes,****,19515.5416
+****,male,Obese,3,no,****,11987.1682
+****,male,Obese,0,no,****,2689.4954
+****,female,Obese,0,no,****,24227.33724
+****,female,Obese,1,no,****,7358.17565
+****,male,Overweight,2,no,****,9225.2564
+****,female,Obese,1,no,****,7443.64305
+****,female,Overweight,3,no,****,14001.2867
+****,female,Underweight,0,no,****,1727.785
+****,male,Overweight,1,no,****,12333.828
+****,male,Normal weight,2,no,****,6710.1919
+****,female,Normal weight,2,yes,****,19444.2658
+****,female,Overweight,0,no,****,1615.7667
+****,male,Obese,2,no,****,4463.2051
+****,male,Overweight,0,yes,****,17352.6803
+****,male,Obese,1,no,****,7152.6714
+****,female,Obese,2,yes,****,38511.6283
+****,female,Normal weight,1,no,****,5354.07465
+****,female,Overweight,1,no,****,35160.13457
+****,male,Obese,3,no,****,7196.867
+****,female,Overweight,0,yes,****,29523.1656
+****,male,Obese,0,no,****,24476.47851
+****,female,Obese,0,no,****,12648.7034
+****,male,Obese,0,no,****,1986.9334
+****,male,Normal weight,1,no,****,1832.094
+****,male,Overweight,1,no,****,4040.55825
+****,male,Underweight,2,yes,****,12829.4551
+****,female,Obese,2,yes,****,47305.305
+****,male,Obese,2,yes,****,44260.7499
+****,male,Obese,3,no,****,4260.744
+****,male,Obese,0,yes,****,41097.16175
+****,female,Overweight,3,no,****,13047.33235
+****,male,Obese,0,yes,****,43921.1837
+****,female,Obese,0,no,****,5400.9805
+****,male,Normal weight,4,no,****,11520.09985
+****,male,Obese,0,yes,****,33750.2918
+****,female,Overweight,0,no,****,11837.16
+****,female,Overweight,1,yes,****,17085.2676
+****,male,Normal weight,3,yes,****,24869.8368
+****,male,Obese,0,yes,****,36219.40545
+****,female,Obese,3,no,****,20462.99766
+****,male,Obese,3,yes,****,46151.1245
+****,male,Normal weight,1,yes,****,17179.522
+****,female,Obese,3,no,****,14590.63205
+****,male,Obese,1,no,****,7441.053
+****,male,Overweight,1,no,****,9282.4806
+****,male,Overweight,1,no,****,1719.4363
+****,male,Obese,2,yes,****,42856.838
+****,male,Obese,2,no,****,7265.7025
+****,male,Overweight,1,no,****,9617.66245
+****,male,Overweight,0,no,****,2523.1695
+****,female,Overweight,2,no,****,9715.841
+****,male,Normal weight,2,no,****,2803.69785
+****,female,Normal weight,0,no,****,2150.469
+****,male,Obese,2,no,****,12928.7911
+****,female,Normal weight,1,no,****,9855.1314
+****,female,Overweight,1,yes,****,22331.5668
+****,male,Obese,3,yes,****,48549.17835
+****,male,Overweight,1,no,****,4237.12655
+****,female,Obese,1,no,****,11879.10405
+****,female,Obese,0,no,****,9625.92
+****,male,Overweight,1,no,****,7742.1098
+****,female,Obese,2,no,****,9432.9253
+****,female,Overweight,0,no,****,14256.1928
+****,female,Obese,1,yes,****,47896.79135
+****,male,Overweight,3,no,****,25992.82104
+****,female,Obese,0,no,****,3172.018
+****,male,Overweight,1,no,****,20277.80751
+****,male,Obese,2,yes,****,42112.2356
+****,female,Overweight,0,no,****,2156.7518
+****,male,Overweight,3,no,****,3906.127
+****,male,Normal weight,0,no,****,1704.5681
+****,male,Overweight,0,yes,****,16297.846
+****,male,Overweight,1,yes,****,21978.6769
+****,male,Obese,3,yes,****,38746.3551
+****,female,Overweight,1,no,****,9249.4952
+****,male,Overweight,3,no,****,6746.7425
+****,female,Normal weight,3,yes,****,24873.3849
+****,female,Obese,2,no,****,12265.5069
+****,female,Obese,2,no,****,4349.462
+****,female,Obese,2,no,****,12646.207
+****,male,Obese,2,no,****,19442.3535
+****,female,Overweight,2,no,****,20177.67113
+****,female,Obese,1,no,****,4151.0287
+****,male,Obese,0,no,****,11944.59435
+****,female,Obese,2,no,****,7749.1564
+****,male,Overweight,0,no,****,8444.474
+****,female,Normal weight,0,no,****,1737.376
+****,male,Obese,3,yes,****,42124.5153
+****,male,Obese,0,no,****,8124.4084
+****,female,Obese,0,yes,****,34838.873
+****,male,Obese,0,no,****,9722.7695
+****,male,Obese,0,no,****,8835.26495
+****,male,Obese,0,no,****,10435.06525
+****,female,Overweight,0,no,****,7421.19455
+****,male,Obese,1,no,****,4667.60765
+****,male,Overweight,1,no,****,4894.7533
+****,female,Overweight,4,no,****,24671.66334
+****,male,Obese,0,yes,****,35491.64
+****,male,Obese,0,no,****,11566.30055
+****,male,Overweight,0,no,****,2866.091
+****,male,Obese,1,no,****,6600.20595
+****,female,Normal weight,1,no,****,3561.8889
+****,male,Obese,2,yes,****,42760.5022
+****,female,Obese,1,yes,****,47928.03
+****,male,Obese,0,no,****,9144.565
+****,female,Obese,1,yes,****,48517.56315
+****,male,Overweight,0,yes,****,24393.6224
+****,female,Obese,0,no,****,13429.0354
+****,female,Overweight,0,no,****,11658.37915
+****,female,Obese,2,no,****,19144.57652
+****,male,Obese,0,no,****,13822.803
+****,male,Overweight,0,no,****,12142.5786
+****,male,Overweight,1,no,****,13937.6665
+****,male,Obese,1,yes,****,41919.097
+****,female,Overweight,1,no,****,8232.6388
+****,female,Overweight,0,no,****,18955.22017
+****,male,Obese,0,no,****,13352.0998
+****,female,Overweight,0,no,****,13217.0945
+****,male,Obese,0,no,****,13981.85035
+****,female,Obese,4,no,****,10977.2063
+****,female,Overweight,3,no,****,6184.2994
+****,male,Obese,2,no,****,4889.9995
+****,male,Obese,1,no,****,8334.45755
+****,female,Obese,1,no,****,5478.0368
+****,male,Overweight,0,no,****,1635.73365
+****,female,Normal weight,0,no,****,11830.6072
+****,female,Overweight,0,no,****,8932.084
+****,female,Overweight,0,no,****,3554.203
+****,male,Obese,0,no,****,12404.8791
+****,female,Obese,0,no,****,14133.03775
+****,male,Overweight,0,no,****,24603.04837
+****,male,Obese,3,no,****,8944.1151
+****,male,Overweight,3,no,****,9620.3307
+****,male,Obese,0,no,****,1837.2819
+****,female,Normal weight,0,no,****,1607.5101
+****,female,Obese,2,no,****,10043.249
+****,male,Obese,1,no,****,4751.07
+****,female,Normal weight,0,yes,****,13844.506
+****,female,Overweight,1,no,****,2597.779
+****,female,Normal weight,2,no,****,3180.5101
+****,female,Obese,1,no,****,9778.3472
+****,female,Obese,3,no,****,13430.265
+****,female,Obese,2,no,****,8017.06115
+****,male,Obese,2,no,****,8116.26885
+****,male,Obese,3,no,****,3481.868
+****,female,Normal weight,0,no,****,13415.0381
+****,female,Normal weight,0,no,****,12029.2867
+****,female,Obese,1,no,****,7639.41745
+****,male,Obese,2,yes,****,36085.219
+****,male,Obese,0,no,****,1391.5287
+****,female,Overweight,0,yes,****,18033.9679
+****,female,Normal weight,3,yes,****,21659.9301
+****,male,Obese,0,yes,****,38126.2465
+****,female,Obese,3,no,****,16455.70785
+****,male,Obese,1,no,****,27000.98473
+****,female,Underweight,2,yes,****,15006.57945
+****,male,Obese,0,yes,****,42303.69215
+****,male,Obese,0,no,****,20781.48892
+****,female,Obese,2,no,****,5846.9176
+****,male,Normal weight,2,no,****,8302.53565
+****,male,Obese,0,no,****,1261.859
+****,female,Obese,0,no,****,11856.4115
+****,male,Overweight,2,no,****,30284.64294
+****,female,Normal weight,0,no,****,3176.8159
+****,female,Obese,3,no,****,4618.0799
+****,male,Obese,4,no,****,10736.87075
+****,female,Obese,0,no,****,2138.0707
+****,male,Obese,1,no,****,8964.06055
+****,male,Obese,1,no,****,9290.1395
+****,female,Obese,2,no,****,9411.005
+****,male,Normal weight,0,no,****,7526.70645
+****,female,Obese,3,no,****,8522.003
+****,male,Obese,0,no,****,16586.49771
+****,male,Overweight,2,no,****,14988.432
+****,female,Obese,0,no,****,1631.6683
+****,female,Normal weight,0,no,****,9264.797
+****,male,Obese,1,no,****,8083.9198
+****,female,Obese,0,no,****,14692.66935
+****,male,Obese,3,no,****,10269.46
+****,male,Normal weight,0,no,****,3260.199
+****,female,Obese,2,no,****,11396.9002
+****,female,Normal weight,0,no,****,4185.0979
+****,female,Normal weight,1,no,****,8539.671
+****,male,Normal weight,3,no,****,6652.5288
+****,male,Obese,1,no,****,4074.4537
+****,male,Underweight,0,no,****,1621.3402
+****,female,Normal weight,1,yes,****,19594.80965
+****,female,Underweight,2,yes,****,14455.64405
+****,male,Normal weight,5,no,****,5080.096
+****,female,Obese,0,no,****,2134.9015
+****,female,Obese,1,no,****,7345.7266
+****,male,Obese,0,no,****,9140.951
+****,female,Normal weight,2,yes,****,18608.262
+****,male,Obese,1,no,****,14418.2804
+****,female,Overweight,0,yes,****,28950.4692
+****,male,Obese,0,yes,****,46889.2612
+****,male,Obese,0,yes,****,46599.1084
+****,male,Obese,1,yes,****,39125.33225
+****,male,Obese,0,no,****,2727.3951
+****,male,Obese,2,no,****,8968.33
+****,male,Normal weight,5,no,****,9788.8659
+****,female,Overweight,1,no,****,6555.07035
+****,female,Overweight,0,no,****,7323.734819
+****,female,Underweight,1,no,****,3167.45585
+****,female,Obese,3,no,****,18804.7524
+****,male,Obese,0,no,****,23082.95533
+****,female,Normal weight,2,no,****,4906.40965
+****,male,Overweight,0,no,****,5969.723
+****,female,Obese,0,no,****,12638.195
+****,male,Overweight,1,no,****,4243.59005
+****,male,Obese,3,no,****,13919.8229
+****,male,Obese,0,no,****,2254.7967
+****,male,Overweight,3,no,****,5926.846
+****,female,Obese,5,no,****,12592.5345
+****,male,Overweight,0,no,****,2897.3235
+****,female,Obese,1,no,****,4738.2682
+****,female,Obese,0,yes,****,37079.372
+****,male,Obese,0,no,****,1149.3959
+****,female,Obese,1,no,****,28287.89766
+****,male,Overweight,1,yes,****,26109.32905
+****,female,Obese,0,no,****,7345.084
+****,male,Overweight,0,no,****,12730.9996
+****,female,Overweight,0,no,****,11454.0215
+****,female,Overweight,0,no,****,5910.944
+****,male,Obese,1,no,****,4762.329
+****,male,Overweight,4,no,****,7512.267
+****,male,Normal weight,1,no,****,4032.2407
+****,male,Normal weight,0,no,****,1969.614
+****,male,Overweight,0,no,****,1769.53165
+****,male,Obese,2,no,****,4686.3887
+****,male,Obese,0,no,****,21797.0004
+****,female,Obese,2,no,****,11881.9696
+****,female,Obese,0,no,****,11840.77505
+****,male,Obese,0,no,****,10601.412
+****,female,Obese,3,no,****,7682.67
+****,female,Obese,3,no,****,10381.4787
+****,male,Obese,0,yes,****,22144.032
+****,female,Obese,2,no,****,15230.32405
+****,male,Overweight,0,no,****,11165.41765
+****,male,Overweight,0,no,****,1632.03625
+****,female,Overweight,1,yes,****,19521.9682
+****,female,Overweight,1,no,****,13224.693
+****,female,Obese,2,no,****,12643.3778
+****,female,Normal weight,1,no,****,23288.9284
+****,female,Normal weight,1,no,****,2201.0971
+****,male,Obese,0,no,****,2497.0383
+****,female,Obese,0,no,****,2203.47185
+****,female,Overweight,0,no,****,1744.465
+****,female,Obese,0,no,****,20878.78443
+****,male,Overweight,3,yes,****,25382.297
+****,male,Overweight,1,yes,****,28868.6639
+****,male,Overweight,0,yes,****,35147.52848
+****,male,Obese,0,no,****,2534.39375
+****,male,Obese,0,no,****,1534.3045
+****,male,Obese,0,no,****,1824.2854
+****,male,Obese,3,no,****,15555.18875
+****,male,Obese,2,no,****,9304.7019
+****,female,Obese,0,no,****,1622.1885
+****,female,Obese,1,no,****,9880.068
+****,male,Obese,3,no,****,9563.029
+****,female,Obese,0,no,****,4347.02335
+****,female,Normal weight,3,no,****,12475.3513
+****,male,Overweight,0,no,****,1253.936
+****,female,Obese,0,yes,****,48885.13561
+****,male,Obese,1,no,****,10461.9794
+****,female,Obese,0,no,****,1748.774
+****,female,Overweight,0,no,****,24513.09126
+****,female,Overweight,0,no,****,2196.4732
+****,male,Obese,0,no,****,12574.049
+****,male,Overweight,4,yes,****,17942.106
+****,male,Overweight,0,no,****,1967.0227
+****,female,Normal weight,2,no,****,4931.647
+****,male,Overweight,2,no,****,8027.968
+****,female,Normal weight,2,no,****,8211.1002
+****,female,Obese,0,no,****,13470.86
+****,male,Obese,0,yes,****,36197.699
+****,male,Overweight,0,no,****,6837.3687
+****,male,Normal weight,1,yes,****,22218.1149
+****,male,Obese,0,yes,****,32548.3405
+****,female,Overweight,1,no,****,5974.3847
+****,male,Obese,3,no,****,6796.86325
+****,male,Obese,1,no,****,2643.2685
+****,male,Normal weight,2,no,****,3077.0955
+****,female,Overweight,0,no,****,3044.2133
+****,female,Overweight,0,no,****,11455.28
+****,male,Obese,1,no,****,11763.0009
+****,male,Obese,0,no,****,2498.4144
+****,male,Normal weight,0,no,****,9361.3268
+****,male,Obese,0,no,****,1256.299
+****,male,Overweight,1,yes,****,21082.16
+****,male,Obese,0,no,****,11362.755
+****,male,Obese,1,no,****,27724.28875
+****,male,Obese,2,no,****,8413.46305
+****,female,Obese,1,no,****,5240.765
+****,male,Obese,0,no,****,3857.75925
+****,female,Overweight,0,no,****,25656.57526
+****,female,Obese,0,no,****,3994.1778
+****,female,Obese,0,no,****,9866.30485
+****,female,Obese,0,no,****,5397.6167
+****,male,Overweight,1,yes,****,38245.59327
+****,female,Obese,0,no,****,11482.63485
+****,female,Obese,2,no,****,24059.68019
+****,female,Overweight,1,no,****,9861.025
+****,male,Obese,1,no,****,8342.90875
+****,male,Overweight,0,no,****,1708.0014
+****,male,Obese,1,yes,****,48675.5177
+****,female,Obese,0,no,****,14043.4767
+****,male,Overweight,2,no,****,12925.886
+****,male,Obese,0,no,****,19214.70553
+****,male,Obese,0,no,****,13831.1152
+****,male,Overweight,1,no,****,6067.12675
+****,female,Obese,3,no,****,5972.378
+****,female,Obese,2,no,****,8825.086
+****,female,Overweight,1,no,****,8233.0975
+****,male,Obese,0,no,****,27346.04207
+****,female,Obese,3,no,****,6196.448
+****,female,Obese,2,no,****,3056.3881
+****,female,Obese,0,no,****,13887.204
+****,female,Obese,0,yes,****,63770.42801
+****,male,Obese,0,no,****,10231.4999
+****,male,Overweight,2,yes,****,23807.2406
+****,male,Obese,0,no,****,3268.84665
+****,female,Obese,2,no,****,11538.421
+****,female,Overweight,0,no,****,3213.62205
+****,female,Obese,0,yes,****,45863.205
+****,male,Obese,0,no,****,13390.559
+****,female,Overweight,0,no,****,3972.9247
+****,male,Normal weight,0,no,****,12957.118
+****,female,Obese,2,no,****,11187.6567
+****,female,Obese,0,no,****,17878.90068
+****,male,Normal weight,2,no,****,3847.674
+****,male,Obese,1,no,****,8334.5896
+****,male,Obese,0,no,****,3935.1799
+****,female,Obese,3,yes,****,39983.42595
+****,male,Obese,0,no,****,1646.4297
+****,female,Normal weight,2,no,****,9193.8385
+****,female,Obese,0,no,****,10923.9332
+****,male,Obese,0,no,****,2494.022
+****,male,Obese,1,no,****,9058.7303
+****,female,Obese,2,no,****,2801.2588
+****,female,Obese,0,no,****,2128.43105
+****,female,Obese,1,no,****,6373.55735
+****,male,Obese,2,no,****,7256.7231
+****,female,Obese,5,no,****,11552.904
+****,male,Obese,2,yes,****,45702.02235
+****,female,Overweight,0,no,****,3761.292
+****,female,Obese,1,no,****,2219.4451
+****,female,Obese,2,no,****,4753.6368
+****,female,Obese,1,no,****,31620.00106
+****,female,Obese,2,no,****,13224.05705
+****,female,Overweight,0,no,****,12222.8983
+****,male,Overweight,0,no,****,1664.9996
+****,female,Obese,1,yes,****,58571.07448
+****,male,Obese,1,no,****,9724.53
+****,female,Normal weight,0,no,****,3206.49135
+****,male,Overweight,1,no,****,12913.9924
+****,male,Obese,0,no,****,1639.5631
+****,male,Obese,2,no,****,6356.2707
+****,female,Normal weight,1,no,****,17626.23951
+****,male,Normal weight,0,no,****,1242.816
+****,female,Overweight,1,no,****,4779.6023
+****,male,Normal weight,3,no,****,3861.20965
+****,female,Obese,1,yes,****,43943.8761
+****,female,Obese,0,no,****,13635.6379
+****,female,Obese,1,no,****,5976.8311
+****,female,Overweight,0,no,****,11842.442
+****,male,Normal weight,1,no,****,8428.0693
+****,male,Obese,2,no,****,2566.4707
+****,female,Normal weight,1,yes,****,15359.1045
+****,male,Obese,0,no,****,5709.1644
+****,female,Obese,1,no,****,8823.98575
+****,female,Overweight,2,no,****,7640.3092
+****,female,Obese,1,no,****,5594.8455
+****,male,Obese,2,no,****,7441.501
+****,female,Obese,2,no,****,33471.97189
+****,female,Obese,0,no,****,1633.0444
+****,male,Obese,0,no,****,9174.13565
+****,female,Overweight,0,no,****,11070.535
+****,female,Obese,3,no,****,16085.1275
+****,female,Overweight,0,yes,****,17468.9839
+****,female,Obese,0,no,****,9283.562
+****,female,Overweight,0,no,****,3558.62025
+****,female,Normal weight,0,yes,****,25678.77845
+****,male,Overweight,2,no,****,4435.0942
+****,male,Obese,2,yes,****,39241.442
+****,female,Overweight,1,no,****,8547.6913
+****,female,Obese,2,no,****,6571.544
+****,female,Obese,0,no,****,2207.69745
+****,female,Normal weight,3,no,****,6753.038
+****,female,Obese,0,no,****,1880.07
+****,female,Obese,1,yes,****,42969.8527
+****,female,Overweight,0,no,****,11658.11505
+****,male,Overweight,2,yes,****,23306.547
+****,female,Obese,0,yes,****,34439.8559
+****,female,Obese,0,no,****,10713.644
+****,male,Obese,1,no,****,3659.346
+****,male,Obese,4,yes,****,40182.246
+****,female,Normal weight,1,no,****,9182.17
+****,male,Obese,0,yes,****,34617.84065
+****,male,Overweight,0,no,****,12129.61415
+****,female,Overweight,0,no,****,3736.4647
+****,male,Overweight,3,no,****,6748.5912
+****,male,Obese,1,no,****,11326.71487
+****,male,Obese,0,no,****,11365.952
+****,female,Obese,0,yes,****,42983.4585
+****,male,Obese,1,no,****,10085.846
+****,male,Overweight,0,no,****,1977.815
+****,female,Obese,0,no,****,3366.6697
+****,male,Normal weight,2,no,****,7173.35995
+****,male,Obese,1,no,****,9391.346
+****,male,Obese,0,no,****,14410.9321
+****,female,Normal weight,1,no,****,2709.1119
+****,female,Obese,2,no,****,24915.04626
+****,male,Overweight,0,yes,****,20149.3229
+****,male,Obese,4,no,****,12949.1554
+****,male,Obese,5,no,****,6666.243
+****,male,Overweight,3,yes,****,32787.45859
+****,male,Obese,0,no,****,13143.86485
+****,female,Obese,3,no,****,4466.6214
+****,male,Obese,2,no,****,18806.14547
+****,male,Obese,3,no,****,10141.1362
+****,male,Overweight,1,no,****,6123.5688
+****,female,Normal weight,3,no,****,8252.2843
+****,male,Overweight,0,no,****,1712.227
+****,female,Obese,0,no,****,12430.95335
+****,female,Obese,2,no,****,9800.8882
+****,female,Obese,1,no,****,10579.711
+****,female,Obese,0,no,****,8280.6227
+****,female,Obese,2,no,****,8527.532
+****,female,Obese,0,no,****,12244.531
+****,female,Overweight,2,yes,****,24667.419
+****,female,Obese,1,no,****,3410.324
+****,male,Obese,2,no,****,4058.71245
+****,female,Obese,1,no,****,26392.26029
+****,female,Overweight,4,no,****,14394.39815
+****,male,Obese,3,no,****,6435.6237
+****,female,Normal weight,1,no,****,22192.43711
+****,female,Obese,1,no,****,5148.5526
+****,male,Obese,0,no,****,1136.3994
+****,female,Normal weight,0,yes,****,27037.9141
+****,male,Obese,2,yes,****,42560.4304
+****,male,Overweight,1,no,****,8703.456
+****,female,Obese,2,yes,****,40003.33225
+****,male,Obese,0,yes,****,45710.20785
+****,female,Overweight,1,no,****,6500.2359
+****,male,Obese,3,no,****,4837.5823
+****,female,Obese,0,no,****,3943.5954
+****,male,Overweight,0,no,****,4399.731
+****,female,Obese,0,no,****,6185.3208
+****,female,Obese,2,yes,****,46200.9851
+****,male,Normal weight,0,no,****,7222.78625
+****,female,Obese,3,no,****,12485.8009
+****,male,Obese,3,yes,****,46130.5265
+****,male,Obese,3,no,****,12363.547
+****,female,Normal weight,2,no,****,10156.7832
+****,female,Underweight,1,no,****,2585.269
+****,male,Normal weight,0,no,****,1242.26
+****,male,Obese,2,yes,****,40103.89
+****,male,Normal weight,0,no,****,9863.4718
+****,female,Normal weight,1,no,****,4766.022
+****,male,Overweight,2,no,****,11244.3769
+****,male,Overweight,2,no,****,7729.64575
+****,male,Obese,0,no,****,5438.7491
+****,female,Normal weight,1,no,****,26236.57997
+****,male,Obese,1,yes,****,34806.4677
+****,male,Overweight,0,no,****,2104.1134
+****,male,Obese,1,no,****,8068.185
+****,male,Obese,1,no,****,2362.22905
+****,male,Normal weight,0,no,****,2352.96845
+****,female,Obese,1,no,****,3577.999
+****,female,Obese,0,no,****,3201.24515
+****,female,Obese,2,no,****,29186.48236
+****,male,Obese,1,yes,****,40273.6455
+****,male,Obese,0,no,****,10976.24575
+****,female,Obese,2,no,****,3500.6123
+****,female,Obese,0,no,****,2020.5523
+****,female,Obese,0,no,****,9541.69555
+****,male,Obese,0,no,****,9504.3103
+****,female,Overweight,1,no,****,5385.3379
+****,female,Overweight,1,no,****,8930.93455
+****,female,Obese,2,no,****,5375.038
+****,female,Obese,0,yes,****,44400.4064
+****,male,Overweight,3,no,****,10264.4421
+****,female,Obese,3,no,****,6113.23105
+****,female,Overweight,0,no,****,5469.0066
+****,male,Obese,1,no,****,1727.54
+****,female,Normal weight,2,no,****,10107.2206
+****,female,Obese,2,no,****,8310.83915
+****,male,Obese,0,no,****,1984.4533
+****,female,Normal weight,0,no,****,2457.502
+****,male,Overweight,0,no,****,12146.971
+****,female,Normal weight,1,no,****,9566.9909
+****,male,Normal weight,1,no,****,13112.6048
+****,female,Obese,2,no,****,10848.1343
+****,female,Obese,0,no,****,12231.6136
+****,female,Obese,0,no,****,9875.6804
+****,male,Obese,3,no,****,11264.541
+****,male,Obese,0,no,****,12979.358
+****,male,Obese,0,no,****,1263.249
+****,female,Overweight,1,no,****,10106.13425
+****,female,Obese,3,yes,****,40932.4295
+****,male,Overweight,1,no,****,6664.68595
+****,female,Normal weight,1,yes,****,16657.71745
+****,female,Obese,0,no,****,2217.6012
+****,female,Obese,1,no,****,6781.3542
+****,male,Normal weight,3,yes,****,19361.9988
+****,male,Normal weight,1,no,****,10065.413
+****,female,Obese,3,no,****,4234.927
+****,female,Overweight,1,no,****,9447.25035
+****,female,Obese,3,no,****,14007.222
+****,female,Obese,1,no,****,9583.8933
+****,female,Obese,0,yes,****,40419.0191
+****,male,Normal weight,2,no,****,3484.331
+****,male,Obese,3,yes,****,36189.1017
+****,male,Obese,2,yes,****,44585.45587
+****,male,Normal weight,2,no,****,8604.48365
+****,male,Overweight,0,yes,****,18246.4955
+****,male,Obese,0,yes,****,43254.41795
+****,female,Overweight,0,no,****,3757.8448
+****,male,Overweight,0,no,****,8827.2099
+****,female,Obese,1,no,****,9910.35985
+****,male,Overweight,2,no,****,11737.84884
+****,male,Normal weight,0,no,****,1627.28245
+****,female,Obese,1,no,****,8556.907
+****,male,Obese,0,no,****,3062.50825
+****,female,Overweight,0,yes,****,19539.243
+****,male,Overweight,0,no,****,1906.35825
+****,male,Obese,0,no,****,14210.53595
+****,female,Normal weight,0,no,****,11833.7823
+****,male,Obese,4,no,****,17128.42608
+****,male,Overweight,2,no,****,5031.26955
+****,female,Normal weight,3,no,****,7985.815
+****,female,Overweight,0,yes,****,23065.4207
+****,male,Obese,3,no,****,5428.7277
+****,male,Obese,0,yes,****,36307.7983
+****,female,Obese,2,no,****,3925.7582
+****,male,Obese,1,no,****,2416.955
+****,male,Overweight,1,yes,****,19040.876
+****,male,Overweight,0,no,****,3070.8087
+****,female,Overweight,2,no,****,9095.06825
+****,female,Obese,0,no,****,11842.62375
+****,male,Obese,1,no,****,8062.764
+****,female,Overweight,1,no,****,7050.642
+****,female,Obese,0,no,****,14319.031
+****,female,Normal weight,2,no,****,6933.24225
+****,male,Obese,3,no,****,27941.28758
+****,female,Overweight,2,no,****,11150.78
+****,female,Obese,0,no,****,12797.20962
+****,female,Overweight,0,yes,****,17748.5062
+****,male,Obese,2,no,****,7261.741
+****,male,Obese,3,no,****,10560.4917
+****,male,Obese,2,no,****,6986.697
+****,male,Obese,0,no,****,7448.40395
+****,male,Obese,3,no,****,5934.3798
+****,male,Overweight,0,no,****,9869.8102
+****,male,Normal weight,3,yes,****,18259.216
+****,male,Obese,0,no,****,1146.7966
+****,male,Obese,1,no,****,9386.1613
+****,female,Overweight,1,yes,****,24520.264
+****,female,Overweight,1,no,****,4350.5144
+****,female,Overweight,3,no,****,6414.178
+****,male,Obese,0,no,****,12741.16745
+****,male,Obese,0,no,****,1917.3184
+****,male,Normal weight,3,no,****,5209.57885
+****,female,Obese,0,no,****,13457.9608
+****,female,Obese,0,no,****,5662.225
+****,male,Overweight,0,no,****,1252.407
+****,female,Normal weight,0,no,****,2731.9122
+****,male,Normal weight,0,yes,****,21195.818
+****,female,Obese,2,no,****,7209.4918
+****,male,Overweight,0,yes,****,18310.742
+****,male,Obese,2,no,****,4266.1658
+****,female,Normal weight,1,no,****,4719.52405
+****,female,Obese,0,no,****,11848.141
+****,male,Normal weight,0,yes,****,17904.52705
+****,female,Overweight,1,no,****,7046.7222
+****,female,Obese,0,no,****,14313.8463
+****,male,Normal weight,1,no,****,2103.08
+****,female,Obese,0,yes,****,38792.6856
+****,male,Overweight,0,no,****,1815.8759
+****,female,Obese,0,no,****,7731.85785
+****,female,Obese,1,no,****,28476.73499
+****,female,Obese,0,no,****,2136.88225
+****,male,Obese,0,no,****,1131.5066
+****,male,Overweight,1,no,****,3309.7926
+****,female,Obese,3,no,****,9414.92
+****,female,Obese,3,no,****,6360.9936
+****,male,Normal weight,2,no,****,11013.7119
+****,male,Normal weight,2,no,****,4428.88785
+****,male,Obese,2,no,****,5584.3057
+****,female,Obese,0,no,****,1877.9294
+****,female,Normal weight,0,no,****,2842.76075
+****,male,Obese,3,no,****,3597.596
+****,female,Overweight,1,yes,****,23401.30575
+****,female,Obese,0,yes,****,55135.40209
+****,male,Obese,1,no,****,7445.918
+****,male,Underweight,0,no,****,2680.9493
+****,female,Obese,0,no,****,1621.8827
+****,female,Overweight,2,no,****,8219.2039
+****,male,Normal weight,0,no,****,12523.6048
+****,female,Obese,2,no,****,16069.08475
+****,male,Obese,2,yes,****,43813.8661
+****,male,Overweight,1,yes,****,20773.62775
+****,male,Obese,3,yes,****,39597.4072
+****,male,Normal weight,1,no,****,6117.4945
+****,male,Obese,0,no,****,13393.756
+****,female,Overweight,0,no,****,5266.3656
+****,female,Normal weight,2,no,****,4719.73655
+****,male,Obese,0,no,****,11743.9341
+****,male,Obese,1,no,****,5377.4578
+****,male,Obese,2,no,****,7160.3303
+****,male,Obese,0,no,****,4402.233
+****,female,Overweight,0,no,****,11657.7189
+****,female,Normal weight,2,no,****,6402.29135
+****,female,Obese,0,no,****,12622.1795
+****,male,Obese,0,no,****,1526.312
+****,male,Normal weight,0,no,****,12323.936
+****,female,Obese,2,yes,****,36021.0112
+****,female,Overweight,0,yes,****,27533.9129
+****,male,Obese,0,no,****,10072.05505
+****,female,Obese,0,yes,****,45008.9555
+****,female,Obese,1,no,****,9872.701
+****,male,Obese,1,no,****,2438.0552
+****,female,Normal weight,0,no,****,2974.126
+****,male,Obese,0,no,****,10601.63225
+****,female,Obese,0,yes,****,37270.1512
+****,male,Obese,2,no,****,14119.62
+****,female,Obese,0,yes,****,42111.6647
+****,female,Normal weight,2,no,****,11729.6795
+****,female,Normal weight,3,yes,****,24106.91255
+****,female,Overweight,0,no,****,1875.344
+****,female,Obese,0,yes,****,40974.1649
+****,male,Normal weight,0,yes,****,15817.9857
+****,female,Obese,1,no,****,18218.16139
+****,male,Overweight,0,no,****,10965.446
+****,female,Obese,2,yes,****,46113.511
+****,female,Overweight,3,no,****,7151.092
+****,female,Obese,2,no,****,12269.68865
+****,female,Normal weight,0,no,****,5458.04645
+****,male,Overweight,0,no,****,8782.469
+****,male,Obese,2,no,****,6600.361
+****,male,Obese,0,no,****,1141.4451
+****,male,Obese,1,no,****,11576.13
+****,male,Normal weight,0,no,****,13129.60345
+****,female,Normal weight,3,no,****,4391.652
+****,male,Obese,0,no,****,8457.818
+****,female,Overweight,1,no,****,3392.3652
+****,male,Normal weight,0,no,****,5966.8874
+****,male,Obese,1,no,****,6849.026
+****,male,Normal weight,3,no,****,8891.1395
+****,female,Overweight,0,no,****,2690.1138
+****,female,Overweight,1,no,****,26140.3603
+****,male,Obese,5,no,****,6653.7886
+****,male,Overweight,1,no,****,6282.235
+****,female,Overweight,2,no,****,6311.952
+****,male,Obese,3,no,****,3443.064
+****,male,Overweight,1,no,****,2789.0574
+****,female,Normal weight,0,no,****,2585.85065
+****,female,Obese,3,yes,****,46255.1125
+****,male,Overweight,4,no,****,4877.98105
+****,male,Overweight,1,yes,****,19719.6947
+****,male,Overweight,0,yes,****,27218.43725
+****,female,Obese,0,no,****,5272.1758
+****,male,Obese,0,no,****,1682.597
+****,male,Obese,1,no,****,11945.1327
+****,female,Overweight,0,yes,****,29330.98315
+****,female,Overweight,4,no,****,7243.8136
+****,male,Normal weight,0,no,****,10422.91665
+****,male,Obese,2,yes,****,44202.6536
+****,male,Obese,0,no,****,13555.0049
+****,female,Obese,0,no,****,13063.883
+****,female,Normal weight,2,yes,****,19798.05455
+****,male,Overweight,1,no,****,2221.56445
+****,female,Obese,0,no,****,1634.5734
+****,female,Normal weight,0,no,****,2117.33885
+****,male,Normal weight,0,no,****,8688.85885
+****,male,Obese,0,yes,****,48673.5588
+****,male,Overweight,3,no,****,4661.28635
+****,male,Obese,0,no,****,8125.7845
+****,female,Obese,0,no,****,12644.589
+****,female,Overweight,2,no,****,4564.19145
+****,male,Obese,3,no,****,4846.92015
+****,female,Obese,1,no,****,7633.7206
+****,male,Obese,3,no,****,15170.069
+****,female,Normal weight,0,yes,****,17496.306
+****,male,Overweight,1,no,****,2639.0429
+****,male,Obese,0,yes,****,33732.6867
+****,female,Overweight,3,no,****,14382.70905
+****,female,Overweight,1,no,****,7626.993
+****,male,Normal weight,2,no,****,5257.50795
+****,female,Obese,0,no,****,2473.3341
+****,female,Overweight,0,yes,****,21774.32215
+****,male,Normal weight,0,yes,****,35069.37452
+****,female,Overweight,0,no,****,13041.921
+****,female,Obese,1,no,****,5245.2269
+****,female,Overweight,0,no,****,13451.122
+****,female,Obese,0,no,****,13462.52
+****,male,Obese,1,no,****,5488.262
+****,male,Obese,0,no,****,4320.41085
+****,male,Normal weight,0,no,****,6250.435
+****,male,Obese,2,no,****,25333.33284
+****,female,Normal weight,2,no,****,2913.569
+****,female,Normal weight,1,no,****,12032.326
+****,female,Obese,0,no,****,13470.8044
+****,male,Obese,1,no,****,6289.7549
+****,male,Obese,1,no,****,2927.0647
+****,female,Obese,1,no,****,6238.298
+****,male,Overweight,5,no,****,10096.97
+****,female,Obese,0,no,****,7348.142
+****,male,Obese,2,no,****,4673.3922
+****,female,Overweight,0,no,****,12233.828
+****,male,Overweight,2,no,****,32108.66282
+****,female,Normal weight,5,no,****,8965.79575
+****,male,Overweight,2,no,****,2304.0022
+****,male,Overweight,0,no,****,9487.6442
+****,male,Normal weight,0,no,****,1121.8739
+****,female,Obese,1,no,****,9549.5651
+****,female,Obese,0,no,****,2217.46915
+****,male,Normal weight,0,no,****,1628.4709
+****,male,Obese,0,no,****,12982.8747
+****,female,Obese,1,no,****,11674.13
+****,male,Obese,2,no,****,7160.094
+****,male,Obese,1,yes,****,39047.285
+****,male,Obese,0,no,****,6358.77645
+****,male,Overweight,3,yes,****,19933.458
+****,male,Underweight,0,no,****,11534.87265
+****,male,Obese,2,yes,****,47462.894
+****,female,Overweight,1,no,****,4527.18295
+****,male,Obese,2,yes,****,38998.546
+****,male,Overweight,1,yes,****,20009.63365
+****,male,Obese,1,no,****,3875.7341
+****,male,Obese,1,yes,****,41999.52
+****,male,Overweight,1,no,****,12609.88702
+****,male,Obese,1,yes,****,41034.2214
+****,male,Obese,1,no,****,28468.91901
+****,female,Obese,1,no,****,2730.10785
+****,female,Overweight,0,no,****,3353.284
+****,female,Obese,1,no,****,14474.675
+****,male,Normal weight,3,no,****,9500.57305
+****,male,Obese,2,no,****,26467.09737
+****,male,Overweight,1,no,****,4746.344
+****,male,Normal weight,2,yes,****,23967.38305
+****,male,Overweight,1,no,****,7518.02535
+****,male,Overweight,2,no,****,3279.86855
+****,female,Obese,5,no,****,8596.8278
+****,female,Overweight,3,no,****,10702.6424
+****,female,Normal weight,0,no,****,4992.3764
+****,female,Normal weight,0,no,****,2527.81865
+****,female,Obese,0,no,****,1759.338
+****,male,Obese,0,no,****,2322.6218
+****,male,Normal weight,0,yes,****,16138.76205
+****,male,Obese,0,no,****,7804.1605
+****,male,Overweight,1,no,****,2902.9065
+****,female,Obese,3,no,****,9704.66805
+****,female,Obese,0,no,****,4889.0368
+****,male,Overweight,1,no,****,25517.11363
+****,male,Normal weight,0,no,****,4500.33925
+****,male,Overweight,3,yes,****,19199.944
+****,female,Obese,1,no,****,16796.41194
+****,male,Obese,5,no,****,4915.05985
+****,female,Overweight,1,no,****,7624.63
+****,male,Obese,3,no,****,8410.04685
+****,female,Overweight,1,no,****,28340.18885
+****,male,Obese,0,no,****,4518.82625
+****,female,Normal weight,0,yes,****,14571.8908
+****,female,Normal weight,1,no,****,3378.91
+****,female,Overweight,2,no,****,7144.86265
+****,female,Obese,2,no,****,10118.424
+****,male,Overweight,1,no,****,5484.4673
+****,female,Normal weight,3,yes,****,16420.49455
+****,female,Normal weight,3,no,****,7986.47525
+****,female,Obese,3,no,****,7418.522
+****,female,Obese,0,no,****,13887.9685
+****,female,Obese,3,no,****,6551.7501
+****,female,Overweight,0,no,****,5267.81815
+****,male,Normal weight,2,yes,****,17361.7661
+****,male,Obese,0,yes,****,34472.841
+****,male,Overweight,0,no,****,1972.95
+****,male,Overweight,0,no,****,21232.18226
+****,male,Normal weight,1,no,****,8627.5411
+****,male,Obese,2,no,****,4433.3877
+****,male,Overweight,2,no,****,4438.2634
+****,male,Overweight,3,yes,****,24915.22085
+****,male,Obese,2,no,****,23241.47453
+****,male,Overweight,1,no,****,9957.7216
+****,female,Normal weight,0,no,****,8269.044
+****,male,Normal weight,2,yes,****,18767.7377
+****,female,Obese,4,no,****,36580.28216
+****,male,Obese,1,no,****,8765.249
+****,female,Overweight,0,no,****,5383.536
+****,male,Overweight,0,no,****,12124.9924
+****,female,Normal weight,1,no,****,2709.24395
+****,female,Obese,2,no,****,3987.926
+****,female,Obese,3,no,****,12495.29085
+****,female,Obese,2,no,****,26018.95052
+****,male,Obese,0,no,****,8798.593
+****,female,Obese,3,yes,****,35595.5898
+****,male,Obese,1,yes,****,42211.1382
+****,male,Normal weight,1,no,****,1711.0268
+****,female,Obese,1,no,****,8569.8618
+****,female,Obese,0,no,****,2020.177
+****,male,Overweight,1,yes,****,16450.8947
+****,male,Normal weight,0,no,****,21595.38229
+****,male,Obese,0,no,****,9850.432
+****,female,Underweight,2,no,****,6877.9801
+****,female,Normal weight,1,yes,****,21677.28345
+****,female,Obese,0,yes,****,44423.803
+****,female,Overweight,0,no,****,4137.5227
+****,male,Normal weight,0,yes,****,13747.87235
+****,male,Obese,0,no,****,12950.0712
+****,female,Normal weight,3,no,****,12094.478
+****,male,Obese,2,yes,****,37484.4493
+****,female,Obese,1,yes,****,39725.51805
+****,male,Overweight,0,no,****,2250.8352
+****,male,Overweight,2,no,****,22493.65964
+****,female,Overweight,0,yes,****,20234.85475
+****,male,Normal weight,0,no,****,1704.70015
+****,male,Obese,0,yes,****,33475.81715
+****,female,Overweight,0,no,****,3161.454
+****,male,Obese,1,no,****,11394.06555
+****,female,Normal weight,2,yes,****,21880.82
+****,female,Overweight,0,no,****,7325.0482
+****,male,Obese,1,yes,****,44501.3982
+****,female,Normal weight,1,no,****,3594.17085
+****,male,Obese,0,yes,****,39727.614
+****,female,Obese,1,no,****,8023.13545
+****,male,Overweight,0,no,****,14394.5579
+****,male,Overweight,1,no,****,9288.0267
+****,male,Overweight,3,yes,****,25309.489
+****,female,Normal weight,0,no,****,3353.4703
+****,male,Overweight,0,no,****,10594.50155
+****,female,Overweight,0,no,****,8277.523
+****,female,Obese,0,no,****,17929.30337
+****,female,Obese,0,no,****,2480.9791
+****,male,Obese,1,no,****,4462.7218
+****,male,Obese,0,no,****,1981.5819
+****,male,Overweight,1,no,****,11554.2236
+****,male,Obese,1,yes,****,48970.2476
+****,male,Overweight,3,no,****,6548.19505
+****,female,Overweight,4,no,****,5708.867
+****,female,Overweight,1,no,****,7045.499
+****,male,Obese,2,no,****,8978.1851
+****,male,Obese,0,no,****,5757.41345
+****,male,Normal weight,1,no,****,14349.8544
+****,female,Obese,1,no,****,10928.849
+****,male,Obese,1,yes,****,39871.7043
+****,male,Obese,0,no,****,13974.45555
+****,male,Obese,0,no,****,1909.52745
+****,female,Overweight,2,no,****,12096.6512
+****,female,Underweight,0,no,****,13204.28565
+****,female,Overweight,1,no,****,4562.8421
+****,female,Obese,1,no,****,8551.347
+****,male,Overweight,0,no,****,2102.2647
+****,male,Obese,0,yes,****,34672.1472
+****,male,Obese,3,no,****,15161.5344
+****,male,Normal weight,2,no,****,11884.04858
+****,male,Overweight,1,no,****,4454.40265
+****,male,Normal weight,1,no,****,5855.9025
+****,male,Obese,1,no,****,4076.497
+****,female,Obese,2,no,****,15019.76005
+****,female,Underweight,5,yes,****,19023.26
+****,male,Overweight,0,no,****,10796.35025
+****,male,Obese,0,no,****,11353.2276
+****,male,Obese,1,no,****,9748.9106
+****,male,Normal weight,0,no,****,10577.087
+****,male,Obese,0,yes,****,41676.0811
+****,female,Overweight,0,no,****,11286.5387
+****,male,Obese,3,no,****,3591.48
+****,female,Obese,0,yes,****,33907.548
+****,female,Obese,4,no,****,11299.343
+****,female,Obese,4,no,****,4561.1885
+****,female,Obese,2,yes,****,44641.1974
+****,male,Obese,0,no,****,1674.6323
+****,female,Obese,0,no,****,23045.56616
+****,female,Obese,1,no,****,3227.1211
+****,female,Normal weight,2,yes,****,16776.30405
+****,male,Overweight,3,no,****,11253.421
+****,male,Obese,1,no,****,3471.4096
+****,male,Obese,0,no,****,11363.2832
+****,male,Overweight,0,no,****,20420.60465
+****,female,Obese,0,no,****,10338.9316
+****,female,Obese,0,no,****,8988.15875
+****,female,Overweight,2,no,****,10493.9458
+****,male,Obese,1,no,****,2904.088
+****,male,Normal weight,3,no,****,8605.3615
+****,female,Obese,1,no,****,11512.405
+****,male,Obese,3,yes,****,41949.2441
+****,female,Overweight,3,yes,****,24180.9335
+****,female,Overweight,3,no,****,5312.16985
+****,male,Normal weight,0,no,****,2396.0959
+****,male,Obese,1,no,****,10807.4863
+****,male,Overweight,5,no,****,9222.4026
+****,male,Obese,2,yes,****,36124.5737
+****,male,Obese,1,yes,****,38282.7495
+****,female,Normal weight,3,no,****,5693.4305
+****,female,Obese,0,yes,****,34166.273
+****,male,Obese,2,no,****,8347.1643
+****,female,Obese,3,yes,****,46661.4424
+****,female,Obese,1,no,****,18903.49141
+****,female,Obese,1,yes,****,40904.1995
+****,female,Overweight,0,no,****,14254.6082
+****,male,Obese,0,no,****,10214.636
+****,female,Obese,2,no,****,5836.5204
+****,male,Obese,1,no,****,14358.36437
+****,female,Normal weight,0,no,****,1728.897
+****,female,Normal weight,5,no,****,8582.3023
+****,male,Obese,2,no,****,3693.428
+****,male,Obese,0,no,****,20709.02034
+****,female,Underweight,0,no,****,9991.03765
+****,male,Obese,0,no,****,19673.33573
+****,female,Overweight,3,no,****,11085.5868
+****,female,Overweight,1,no,****,7623.518
+****,female,Normal weight,0,no,****,3176.2877
+****,male,Obese,0,no,****,3704.3545
+****,female,Obese,0,yes,****,36898.73308
+****,male,Obese,1,no,****,9048.0273
+****,female,Obese,3,no,****,7954.517
+****,female,Normal weight,0,no,****,27117.99378
+****,male,Obese,2,no,****,6338.0756
+****,male,Obese,2,no,****,9630.397
+****,male,Obese,3,no,****,11289.10925
+****,male,Obese,0,yes,****,52590.82939
+****,female,Obese,0,no,****,2261.5688
+****,male,Normal weight,1,no,****,10791.96
+****,male,Obese,0,no,****,5979.731
+****,female,Obese,0,no,****,2203.73595
+****,female,Obese,0,no,****,12235.8392
+****,female,Obese,3,yes,****,40941.2854
+****,female,Obese,1,no,****,5630.45785
+****,female,Overweight,4,no,****,11015.1747
+****,female,Normal weight,3,no,****,7228.21565
+****,male,Obese,0,yes,****,39722.7462
+****,female,Normal weight,2,no,****,14426.07385
+****,female,Obese,0,no,****,2459.7201
+****,female,Obese,0,no,****,3989.841
+****,female,Obese,1,no,****,7727.2532
+****,male,Obese,2,no,****,5124.1887
+****,male,Obese,1,no,****,18963.17192
+****,female,Overweight,0,no,****,2200.83085
+****,female,Overweight,1,no,****,7153.5539
+****,female,Overweight,0,no,****,5227.98875
+****,male,Obese,0,no,****,10982.5013
+****,female,Normal weight,2,no,****,4529.477
+****,male,Obese,2,no,****,4670.64
+****,female,Obese,1,no,****,6112.35295
+****,male,Overweight,1,yes,****,17178.6824
+****,female,Overweight,2,yes,****,22478.6
+****,female,Obese,0,no,****,11093.6229
+****,male,Overweight,2,no,****,6457.8434
+****,male,Obese,2,no,****,4433.9159
+****,female,Overweight,0,no,****,2154.361
+****,female,Normal weight,1,yes,****,23887.6627
+****,female,Overweight,1,no,****,6496.886
+****,female,Obese,0,no,****,2899.48935
+****,male,Overweight,0,yes,****,19350.3689
+****,female,Obese,1,no,****,7650.77375
+****,female,Obese,0,no,****,2850.68375
+****,female,Obese,0,no,****,2632.992
+****,female,Overweight,1,no,****,9447.3824
+****,female,Overweight,1,yes,****,18328.2381
+****,male,Normal weight,2,no,****,8603.8234
+****,male,Obese,3,yes,****,37465.34375
+****,female,Obese,0,no,****,13844.7972
+****,female,Overweight,1,yes,****,21771.3423
+****,female,Overweight,0,no,****,13126.67745
+****,female,Obese,2,no,****,5327.40025
+****,female,Normal weight,1,no,****,13725.47184
+****,female,Obese,1,no,****,13019.16105
+****,female,Obese,0,no,****,8671.19125
+****,female,Normal weight,0,no,****,4134.08245
+****,female,Overweight,3,no,****,18838.70366
+****,female,Obese,0,yes,****,33307.5508
+****,male,Obese,0,no,****,5699.8375
+****,male,Overweight,1,no,****,6393.60345
+****,female,Overweight,2,no,****,4934.705
+****,male,Normal weight,2,no,****,6198.7518
+****,male,Obese,2,no,****,8733.22925
+****,male,Obese,0,no,****,2055.3249
+****,male,Obese,1,no,****,9964.06
+****,female,Overweight,3,yes,****,18223.4512
+****,male,Underweight,1,no,****,5116.5004
+****,female,Obese,2,no,****,36910.60803
+****,male,Obese,2,yes,****,38415.474
+****,female,Overweight,1,yes,****,20296.86345
+****,male,Obese,1,no,****,12347.172
+****,male,Obese,1,no,****,5373.36425
+****,male,Obese,2,no,****,23563.01618
+****,male,Normal weight,0,no,****,1702.4553
+****,female,Obese,2,no,****,10806.839
+****,female,Obese,1,no,****,3956.07145
+****,male,Obese,0,no,****,12890.05765
+****,male,Overweight,0,no,****,5415.6612
+****,male,Obese,2,no,****,4058.1161
+****,female,Obese,1,yes,****,41661.602
+****,female,Obese,3,no,****,7537.1639
+****,female,Normal weight,1,no,****,4718.20355
+****,male,Obese,2,no,****,6593.5083
+****,male,Overweight,0,no,****,8442.667
+****,female,Normal weight,0,yes,****,26125.67477
+****,male,Normal weight,1,no,****,6858.4796
+****,female,Obese,1,no,****,4795.6568
+****,male,Underweight,2,no,****,6640.54485
+****,male,Obese,2,no,****,7162.0122
+****,male,Obese,0,no,****,10594.2257
+****,male,Obese,0,no,****,11938.25595
+****,male,Obese,3,yes,****,60021.39897
+****,female,Normal weight,0,yes,****,20167.33603
+****,female,Normal weight,3,no,****,12479.70895
+****,male,Normal weight,0,no,****,11345.519
+****,female,Overweight,2,no,****,8515.7587
+****,male,Obese,0,no,****,2699.56835
+****,female,Normal weight,0,no,****,14449.8544
+****,female,Overweight,0,no,****,12224.35085
+****,male,Normal weight,3,no,****,6985.50695
+****,female,Obese,1,no,****,3238.4357
+****,male,Obese,2,yes,****,47269.854
+****,male,Obese,2,yes,****,49577.6624
+****,female,Normal weight,3,no,****,4296.2712
+****,female,Obese,0,no,****,3171.6149
+****,male,Obese,0,no,****,1135.9407
+****,male,Normal weight,5,no,****,5615.369
+****,female,Overweight,3,no,****,9101.798
+****,male,Overweight,4,no,****,6059.173
+****,female,Obese,0,no,****,1633.9618
+****,male,Obese,1,yes,****,37607.5277
+****,male,Overweight,0,yes,****,18648.4217
+****,male,Normal weight,0,no,****,1241.565
+****,male,Overweight,0,yes,****,16232.847
+****,female,Overweight,4,no,****,15828.82173
+****,female,Overweight,0,no,****,4415.1588
+****,female,Obese,0,no,****,6474.013
+****,female,Obese,3,no,****,11436.73815
+****,female,Overweight,1,no,****,11305.93455
+****,male,Obese,3,no,****,30063.58055
+****,female,Normal weight,0,no,****,10197.7722
+****,female,Normal weight,0,no,****,4544.2348
+****,male,Obese,1,no,****,3277.161
+****,female,Overweight,1,no,****,6770.1925
+****,female,Obese,1,no,****,7337.748
+****,female,Obese,2,no,****,10370.91255
+****,male,Normal weight,0,yes,****,26926.5144
+****,female,Obese,0,no,****,10704.47
+****,male,Obese,0,yes,****,34254.05335
+****,female,Obese,0,no,****,1880.487
+****,male,Overweight,3,no,****,8615.3
+****,male,Obese,1,no,****,3292.52985
+****,female,Obese,0,no,****,3021.80915
+****,male,Overweight,5,no,****,14478.33015
+****,male,Overweight,1,no,****,4747.0529
+****,male,Overweight,0,yes,****,17043.3414
+****,male,Normal weight,0,no,****,10959.33
+****,female,Obese,0,no,****,2741.948
+****,female,Overweight,0,no,****,4357.04365
+****,male,Obese,1,yes,****,22462.04375
+****,female,Overweight,2,no,****,4189.1131
+****,female,Obese,0,no,****,8283.6807
+****,female,Overweight,2,yes,****,24535.69855
+****,female,Normal weight,0,yes,****,14283.4594
+****,male,Obese,1,no,****,1720.3537
+****,male,Obese,1,yes,****,47403.88
+****,female,Normal weight,0,no,****,8534.6718
+****,female,Underweight,0,no,****,3732.6251
+****,female,Overweight,1,no,****,5472.449
+****,male,Obese,2,yes,****,38344.566
+****,male,Obese,1,no,****,7147.4728
+****,female,Normal weight,2,no,****,7133.9025
+****,male,Obese,0,yes,****,34828.654
+****,male,Normal weight,0,no,****,1515.3449
+****,male,Overweight,3,no,****,9301.89355
+****,male,Overweight,0,no,****,11931.12525
+****,male,Normal weight,1,no,****,1964.78
+****,male,Overweight,0,no,****,1708.92575
+****,female,Overweight,2,no,****,4340.4409
+****,male,Overweight,2,no,****,5261.46945
+****,female,Overweight,1,no,****,2710.82855
+****,male,Obese,0,yes,****,62592.87309
+****,male,Obese,3,yes,****,46718.16325
+****,female,Normal weight,1,no,****,3208.787
+****,male,Overweight,0,yes,****,37829.7242
+****,male,Normal weight,2,yes,****,21259.37795
+****,female,Overweight,0,no,****,2464.6188
+****,female,Normal weight,0,yes,****,16115.3045
+****,male,Overweight,4,yes,****,21472.4788
+****,female,Obese,0,yes,****,33900.653
+****,male,Obese,2,no,****,6875.961
+****,male,Overweight,1,no,****,6940.90985
+****,female,Overweight,0,no,****,4571.41305
+****,male,Obese,1,no,****,4536.259
+****,female,Obese,2,yes,****,36397.576
+****,female,Normal weight,3,yes,****,18765.87545
+****,male,Overweight,1,no,****,11272.33139
+****,female,Normal weight,0,no,****,1731.677
+****,male,Obese,0,no,****,1163.4627
+****,male,Obese,4,no,****,19496.71917
+****,female,Overweight,2,no,****,7201.70085
+****,male,Obese,3,no,****,5425.02335
+****,male,Overweight,0,yes,****,28101.33305
+****,male,Obese,0,no,****,12981.3457
+****,female,Obese,2,yes,****,43896.3763
+****,male,Overweight,1,no,****,4239.89265
+****,male,Obese,0,no,****,13143.33665
+****,female,Obese,0,no,****,7050.0213
+****,male,Obese,1,no,****,9377.9047
+****,female,Normal weight,2,no,****,22395.74424
+****,male,Obese,2,no,****,10325.206
+****,female,Overweight,2,no,****,12629.1656
+****,female,Obese,0,no,****,10795.93733
+****,female,Obese,3,no,****,11411.685
+****,male,Obese,3,no,****,10600.5483
+****,female,Obese,0,no,****,2205.9808
+****,female,Obese,0,no,****,1629.8335
+****,female,Overweight,0,no,****,2007.945
+****,female,Overweight,0,yes,****,29141.3603
